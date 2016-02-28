@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Business Thoughts]]></title>
+        <description><![CDATA[Business Thoughts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Feb 2016 10:55:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bill Ford]]></title>
+            <description><![CDATA[<article><h1>Bill Ford</h1><p>Henry's great-grandson explains how the automaker can become a software-driven service company that makes cars, too Is the Ford Motor Company... pivoting? Startups do it all the time, occasionally with seismic consequences. Android was originally conceived as an operating system for cameras. Slack began as a video game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbea20c112016b53eaa90c098eb9aa0b69becdcf.jpg"></article>]]></description>
+            <link>https://backchannel.com/bill-ford-isn-t-scared-of-apple-9822fd3ecb78</link>
+            <guid isPermaLink="false">93ebda61-61bd-473c-a549-c72aab9b3cd9</guid>
+            <pubDate>Sun, 28 Feb 2016 10:54:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
